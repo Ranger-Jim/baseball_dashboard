@@ -61,3 +61,8 @@ Style the dashboard for a clean UI (CSS or TailwindCSS)
 Integrate a baseball API for live scores and player stats
 Optionally, add user authentication if needed
 Package the project for deployment (local or cloud hosting)
+
+**WISHLIST**
+- Add border to spring training cells
+- Strike out or somehow indicate games that have already been played
+- Start with basic public API use of displaying previous game scores in table
