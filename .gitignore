@@ -1,0 +1,15 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore Django migrations and database files
+backend/__pycache__/
+backend/db.sqlite3
+backend/schedule/migrations/
+
+# Ignore Node.js dependencies
+frontend/node_modules/
+frontend/.next/
+
+# Ignore compiled files
+__pycache__/
+*.pyc
